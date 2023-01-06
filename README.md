@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VeroChak
+👋 Hi, I’m @VeroChak
 
-- 🌱 I just finished a DataScience Bootcamp at LeWagon. 
+🌱 I just finished a DataScience Bootcamp at LeWagon. 
